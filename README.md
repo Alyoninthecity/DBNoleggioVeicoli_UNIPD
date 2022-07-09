@@ -1,4 +1,4 @@
-# Progetto Personale Esame Basi di Dati (progetto individuale)
+# Progetto personale per l'esame di Basi di Dati UNIPD
 ### RentToGo
 ##### Indice
 - [Relazione](https://github.com/Alyoninthecity/DBNoleggioVeicoli_UNIPD/blob/main/RelazioneNoleggioVeicolo.pdf)
