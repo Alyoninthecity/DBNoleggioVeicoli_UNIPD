@@ -1,5 +1,4 @@
-##Progetto svolto per l'esame di Basi di Dati
-
+#Progetto Esame Basi di Dati
 **RentToGo**
 
 **1) Abstract**
