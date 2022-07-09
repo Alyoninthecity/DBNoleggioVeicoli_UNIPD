@@ -1,4 +1,4 @@
-#Progetto svolto per l'esame di Basi di Dati
+##Progetto svolto per l'esame di Basi di Dati
 
 **RentToGo**
 
